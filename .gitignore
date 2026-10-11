@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+
+# Ignore compiled executables and build objects anywhere
+*.o
+*.out
+*.dSYM/
+build/
+
+# Ignore compiled game binaries inside project folders
+snake-game/snake
+snake-game/scratch
